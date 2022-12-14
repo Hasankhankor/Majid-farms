@@ -4,8 +4,8 @@ const Contactus = () => {
   return (
 		<section className="contact_section layout_padding">
 			<div className="container ">
-				<div className="heading_container">
-					<h2 className="">Place an Order</h2>
+				<div className="">
+					<h2 className="text-[#54B435]">Place an Order</h2>
 				</div>
 			</div>
 			<div className="container">
@@ -28,8 +28,8 @@ const Contactus = () => {
 									placeholder="Message"
 								/>
 							</div>
-							<div className="d-flex ">
-								<button type='submit'>SEND</button>
+							<div className="d-flex " >
+								<button style={{backgroundColor:"#54B435"}}type='submit'>SEND</button>
 							</div>
 						</form>
 					</div>

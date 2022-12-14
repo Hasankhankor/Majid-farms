@@ -85,7 +85,7 @@ export default function Home() {
 			</div>
 
 			<div className="conatiner">
-				<h2 className="text-center">Our Products</h2>
+				<h2 className="text-center text-[#54B435]">Our Products</h2>
 				<div className="row justify-center" data-aos="zoom-in-up">
 					<div className="col-md-5">
 						<div

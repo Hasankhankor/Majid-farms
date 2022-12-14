@@ -12,7 +12,7 @@ const Footer = () => {
 				<div className="row">
 					<div className="col-md-4 pr-md-5">
 						<a
-							style={{ color: "#00e69c" }}
+							style={{ color: "#54B435" }}
 							href="#"
 							className="footer-site-logo d-block mb-4"
 						>

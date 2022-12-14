@@ -8,12 +8,12 @@ const Navbar = () => {
 		<div>
 			<nav
 				className="navbar navbar-expand-lg navbar-dark "
-				style={{ backgroundColor: "rgba(0,0,0,0.6)" }}
+				style={{ backgroundColor: "#54B43550" }}
 			>
 				<div className="container-fluid">
 					<a className="navbar-brand">
 						<Image src={Logo} alt="" width={40} height={40} />
-						<a style={{marginLeft:"2rem"}}>
+						<a style={{marginLeft:"3rem"} }className="font-bold">
 							<Link href="/">Majid Farms & Fruit Suppliers</Link>
 						</a>
 					</a>
@@ -29,7 +29,7 @@ const Navbar = () => {
 						<span className="navbar-toggler-icon"></span>
 					</button>
 					<div
-						className=" navbar-collapse navbar-design justify-content-center"
+						className=" navbar-collapse navbar-design2 justify-content-center"
 						id="navbarSupportedContent"
 					>
 						<ul className="navbar-nav  ">

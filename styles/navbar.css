@@ -1,13 +1,13 @@
-.navbar-design {
+.navbar-design2 {
     font-size: 15px;
     margin-top: 10px;
 
-
+         
 }
 
-.navbar-design a:hover {
+.navbar-design2 a:hover {
 
-    color: #eda80e !important;
+    color: #0eed63 !important;
 
 
 
@@ -16,7 +16,7 @@
 
 .btn-design {
 
-    border: 1px solid #eda80e !important;
+    border: 1px solid #0eed63 !important;
     font-size: 15px !important;
     width: 150px;
 

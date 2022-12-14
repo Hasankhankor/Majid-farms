@@ -32820,7 +32820,7 @@ section.u-white:before,
 li.active>.u-button-style.u-button-style.u-white,
 li.active>.u-button-style.u-button-style.u-white[class*="u-border-"] {
   color: #111111 !important;
-  background-color: #e6e6e6 !important;
+  background-color: #54B435 !important;
 }
 
 .u-hover-white:hover,
@@ -32843,8 +32843,8 @@ a.u-button-style.u-button-style.active>.u-active-white,
 a.u-button-style.u-button-style.active>.u-active-white[class*="u-border-"],
 li.active>a.u-button-style.u-button-style.u-active-white,
 li.active>a.u-button-style.u-button-style.u-active-white[class*="u-border-"] {
-  color: #111111 !important;
-  background-color: #ffffff !important;
+  color: #ffff !important;
+  background-color: #54B435 !important;
 }
 
 a.u-link.u-hover-white:hover {
@@ -40920,7 +40920,7 @@ a.u-button-style.u-button-style.active>.u-text-active-palette-1-base[class*="u-b
 .u-text-hover-palette-1-base .u-language-url:hover,
 .u-popupmenu-items.u-text-hover-palette-1-base .u-nav-link:hover,
 .u-popupmenu-items.u-popupmenu-items.u-text-active-palette-1-base .u-nav-link.active {
-  color: #232b79 !important;
+  color: #ffff !important;
 }
 
 .u-text-palette-1-base .u-svg-link,
@@ -40932,7 +40932,7 @@ a.u-button-style.u-button-style.active>.u-text-active-palette-1-base[class*="u-b
 }
 
 .u-link.u-text-palette-1-base:hover {
-  color: #20276d !important;
+  color: #ffff !important;
 }
 
 a.u-link.u-text-hover-palette-1-base:hover {
@@ -41844,7 +41844,7 @@ li.active>a.u-button-style.u-text-palette-3-base,
 li.active>a.u-button-style.u-text-palette-3-base[class*="u-border-"],
 a.u-button-style.u-text-palette-3-base,
 a.u-button-style.u-text-palette-3-base[class*="u-border-"] {
-  color: #00ffad!important;
+  color: #54B435!important;
 }
 
 a.u-button-style.u-text-palette-3-base:hover,
@@ -43320,7 +43320,7 @@ a.u-button-style.u-button-style.active>.u-text-active-white[class*="u-border-"],
 .u-text-hover-white .u-language-url:hover,
 .u-popupmenu-items.u-text-hover-white .u-nav-link:hover,
 .u-popupmenu-items.u-popupmenu-items.u-text-active-white .u-nav-link.active {
-  color: #ffffff !important;
+  color: #54B435 !important;
 }
 
 .u-text-white .u-svg-link,
@@ -43336,7 +43336,7 @@ a.u-button-style.u-button-style.active>.u-text-active-white[class*="u-border-"],
 }
 
 a.u-link.u-text-hover-white:hover {
-  color: #ffffff !important;
+  color: #54B435 !important;
 }
 
 .u-text-black,
