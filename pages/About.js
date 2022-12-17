@@ -84,7 +84,7 @@ const About = () => {
 								</h3>
 								<p className="u-align-justify u-custom-item u-text u-text-4">
 									<span>
-										
+									We believe that buying fresh organic produce should be easy and fun. It should let you live happily and healthily. We also believe that everyone has the right to access non-commercial, fresh, non-GMO food.
 									</span>
 									<br />
 								</p>
@@ -100,7 +100,7 @@ const About = () => {
 								</h3>
 								<p className="u-align-justify u-custom-item u-text u-text-palette-1-base u-text-6">
 									<span className="u-text-body-alt-color">
-										
+									Our grand mission includes bringing every organic producer in the Malakand area to the space of e-commerce through our platform and making your access to organic produce a lot easier than ever before. Because it’s all about you!
 									</span>
 									<br />
 								</p>
@@ -113,7 +113,7 @@ const About = () => {
 								</h3>
 								<p className="u-align-justify u-custom-item u-text u-text-8">
 									<span>
-										
+									We are a customer-centric group of producers. We believe in integrity, quality, and genuineness in all business areas.
 									</span>
 									<br />
 								</p>
@@ -149,8 +149,7 @@ const About = () => {
 											<div class="choose_text">
 												<h3>Excellent Service</h3>
 												<p>
-													You selected the fruit item, made payment, and it was
-													delivered to the designated address.
+												Place your order now and we will deliver it you sooner than you think.
 												</p>
 											</div>
 										</div>
@@ -163,7 +162,7 @@ const About = () => {
 											<div class="choose_text">
 												<h3>EAT MORE HEALTHILY</h3>
 												<p>
-													
+												Health is wealth, so why eat GMO food when you can get Fresh Organic food from your local grower? Place an order and let us send you some health.
 												</p>
 											</div>
 										</div>
@@ -176,7 +175,7 @@ const About = () => {
 											<div class="choose_text">
 												<h3>Quality And Reliability</h3>
 												<p>
-													
+												Quality and Reliability are the core pillars of our vision. And thats why we offer a money-back guarantee; if you think the quality is different from your expectations, give us a call, and we will come to get it with a full reimbursement.
 												</p>
 											</div>
 										</div>
@@ -187,9 +186,9 @@ const About = () => {
 												<Image src={icon4} alt="#" />
 											</i>
 											<div class="choose_text">
-												<h3>Expert Farmer</h3>
+												<h3>Expert Growers</h3>
 												<p>
-													
+												 We are backed by a chain of expert farmers who are well-qualified and have decades of experience in the field. Making sure the delivery of top-notch, premium quality produce.
 												</p>
 											</div>
 										</div>
@@ -212,39 +211,7 @@ const About = () => {
 					</div>
 				</div>
 			</div>
-			<section
-				className="u-clearfix u-section-10 mt-[5rem]"
-				id="carousel_d06f"
-				data-aos="fade-in"
-			>
-				<div className="u-clearfix u-expanded-width u-layout-wrap u-layout-wrap-1">
-					<div className="u-gutter-0 u-layout">
-						<div className="u-layout-row" data-aos="zoom-in">
-							<div className="u-container-style u-layout-cell u-palette-1-base u-size-30 u-layout-cell-1">
-								<div className="u-container-layout u-valign-middle u-container-layout-1">
-									<span className="u-custom-font u-font-montserrat u-text u-text-body-alt-color u-text-1">
-										What We Do
-									</span>
-									<p className="u-align-justify u-text u-text-body-alt-color u-text-2">
-									
-									</p>
-								</div>
-							</div>
-							<div className="u-align-left u-container-style u-layout-cell u-size-30 u-layout-cell-2">
-								<div className="u-container-layout u-valign-middle u-container-layout-2">
-									<div
-										className="u-align-center-sm u-align-center-xs u-image u-image-circle u-image-contain u-image-1"
-										alt="USS Enterprise ICT company"
-										data-image-width="241"
-										data-image-height="192"
-									></div>
-									<p className="u-text u-text-black u-text-3 text-white"></p>
-								</div>
-							</div>
-						</div>
-					</div>
-				</div>
-			</section>
+			
 			<Footer />
 		</div>
 	);
